@@ -25,5 +25,5 @@ Super Tic-Tac-Toe is a fun twist on the classic game, featuring a 9x9 board made
 ## Getting Started
 
 To play the game:
-[Tic-Tac-Toe-twoplayergame](https://editor.p5js.org/yayme/full/FD8l8wZoe)
+[Tic-Tac-Toe-twoplayergame](https://editor.p5js.org/Adnan_yayme/full/FD8l8wZoe)
 
