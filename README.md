@@ -24,9 +24,6 @@ Super Tic-Tac-Toe is a fun twist on the classic game, featuring a 9x9 board made
 
 ## Getting Started
 
-To run the Super Tic-Tac-Toe game locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/super-tic-tac-toe.git
+To play the game:
+[Tic-Tac-Toe-twoplayergame](https://editor.p5js.org/yayme/full/FD8l8wZoe)
 
