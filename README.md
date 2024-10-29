@@ -13,7 +13,7 @@ Super Tic-Tac-Toe is a fun twist on the classic game, featuring a 9x9 board made
 ## Features
 
 - Interactive 9x9 game board.
-- Visually appealing graphics powered by p5.js.
+- graphics powered by p5.js.
 - Real-time updates and win notifications.
 
 ## Technologies Used
